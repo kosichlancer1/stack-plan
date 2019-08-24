@@ -8,7 +8,7 @@ const Root = styled.div`
   margin: 0 auto;
   padding: 30px 15px;
   display: grid;
-  grid-template-columns: 600px 1fr;
+  grid-template-columns: 674px 1fr;
   grid-gap: 10px;
   align-items: flex-start;
 
